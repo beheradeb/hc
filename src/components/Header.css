@@ -1,0 +1,61 @@
+.Header {
+  /* border: 2px solid red; */
+  height: 18%;
+  width: 100%;
+  /* box-shadow: 0 0 1vh black; */
+  box-shadow: 0 0 1vh wheat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.h-box-1 {
+  /* border: 2px solid red; */
+  /* flex-basis: 15%; */
+  flex-basis: 20%;
+  height: 60%;
+  /* height: 100%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* .h-box-1 img {
+  border: 1px solid chartreuse;
+  width: 90%;
+  height: 80%;
+} */
+.h-box-2 {
+  /* border: 2px solid greenyellow; */
+  flex-basis: 60%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h2 {
+  color: rgb(101, 101, 101);
+  /* color: rgb(53, 97, 201); */
+}
+h4 {
+  color: grey;
+}
+.h-box-3 {
+  /* border: 2px solid blue; */
+  flex-basis: 20%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h-box-3 button {
+  cursor: not-allowed;
+  background-color: rgb(255, 12, 12);
+  border: none;
+  width: 50%;
+  height: 40%;
+  border-radius: 10vh;
+  color: white;
+  font-size: 1.1rem;
+  font-weight: bold;
+}

@@ -1,0 +1,61 @@
+.modal-overlay {
+  /* overlay */
+  /* border: 2px solid red; */
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  z-index: 1;
+  background-color: rgba(20, 12, 2, 0.7);
+  /* position the modal-box */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 1%;
+}
+.modal-close-button {
+  /* border: 2px solid greenyellow; */
+  width: 85%;
+  height: 5%;
+  cursor: default;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.cross-btn {
+  /* border: 2px solid red; */
+  color: whitesmoke;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+.modal-fixed-box {
+  /* border: 2px solid blue; */
+  background-color: whitesmoke;
+  width: 85%;
+  height: 75%;
+  border-radius: 1vh;
+  z-index: 2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.modal-fixed-container {
+  border: thin solid gray;
+  width: 96%;
+  height: 90%;
+  /* overflow-x: scroll; */
+  padding: 2%;
+}
+/* .modal-content { */
+/* border: 2px solid red; */
+/* width: 1025px; */
+/* height: 1000px; */
+/* } */
+.a-link {
+  /* border: 2px solid red; */
+  color: blue;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 1%;
+}

@@ -1,0 +1,28 @@
+.CustomToastMsg {
+  /* border: 2px solid red; */
+  /* background-color: rgb(255, 217, 0); */
+  background-color: red;
+  color: rgb(96, 96, 96);
+  font-size: large;
+  border-radius: 1vh;
+  width: 27vw;
+  /* width: 25vw; */
+  height: 8vh;
+  position: fixed;
+  top: 22vh;
+  z-index: 3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translateX(150vw);
+  transition: 1s;
+}
+.show-custom-toast-msg {
+  transform: translateX(0vh);
+}
+.success {
+  background-color: greenyellow;
+}
+.warning {
+  background-color: rgb(255, 217, 0);
+}

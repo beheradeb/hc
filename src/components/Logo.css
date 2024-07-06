@@ -1,0 +1,73 @@
+.Logo {
+  /* border: 2px solid blueviolet; */
+  width: 80%;
+  height: 90%;
+  /* width: 150px;
+  height: 60px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.Logo-box-1 {
+  /* border: 2px solid darkcyan; */
+  background-color: black;
+  color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4.5em;
+  font-weight: bold;
+  text-shadow: -0.6vh 0 0.4vh rgb(95, 95, 177);
+  /*  */
+  flex-basis: 35%;
+  height: 100%;
+  /* background-color: white; */
+}
+.Logo-box-1 img {
+  width: 99%;
+  height: 99%;
+}
+.Logo-box-2 {
+  /* border: 2px solid indianred; */
+  background-color: black;
+  color: white;
+  /*  */
+  flex-basis: 65%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.Logo-box-2-1 {
+  /* border: 1px solid chartreuse; */
+  background-color: black;
+  text-shadow: -0.2vh 0 0.3vh whitesmoke;
+  /*  */
+  /* background-color: white; */
+  color: rgb(94, 94, 94);
+  width: 100%;
+  flex-basis: 50%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  font-size: 1.2em;
+  font-weight: bolder;
+}
+.Logo-box-2-2 {
+  /* border: 1px solid seagreen; */
+  background-color: black;
+  color: grey;
+  text-shadow: -0.3vh 0 0.3vh white;
+  /*  */
+  /* background-color: white; */
+  /* color: black; */
+  width: 100%;
+  flex-basis: 50%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  font-size: 1.7em;
+  font-weight: bold;
+}
