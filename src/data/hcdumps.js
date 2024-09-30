@@ -71,6 +71,11 @@ export const hc_dumps_questions = [
       { id: "D", option: "Location" },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_hc_visit.htm",
+      "https://www.p2pexams.com/free-questions/vceexamstest-salesforce-health-cloud-accredited-professional-sp22-salesforce-health-cloud-accredited-professional-sp22-verified-questions-answers-by-waters-29-01-2024-7qa.pdf",
+    ],
   },
   {
     id: "5",
@@ -83,6 +88,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `FHIR-Aligned EHR Data Model org preference` },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_clinical_data_model.htm",
+      "https://brainly.com/question/51428730",
+    ],
   },
   {
     id: "6",
@@ -107,6 +117,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud.meta/health_cloud/admin_install_package.htm",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-4-question-52-discussion",
+    ],
   },
   {
     id: "7",
@@ -119,6 +134,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `SDTMv3.2` },
     ],
     answer: [{ id: "A" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.252.0.health_cloud_object_reference.meta/health_cloud_object_reference/hc_clinical_data_model.htm",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-4-question-41-discussion",
+    ],
   },
   {
     id: "8",
@@ -137,6 +157,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_care_template_import.htm&type=5",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-37-discussion",
+      "https://brainly.com/question/51429396",
+    ],
   },
   {
     id: "9",
@@ -149,6 +175,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Medication Management` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_health_RxNorm_API.htm&release=248&type=5",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-5-question-47-discussion",
+    ],
   },
   {
     id: "10",
@@ -161,6 +192,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Use a third-party tool from AppExChange.` },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://www.mulesoft.com/exchange/org.mule.examples/fhir-r4-patient-api/",
+      "https://www.mulesoft.com/exchange/org.mule.examples/hc-accelerator-sfdc-patient-api/minor/1.0/pages/Salesforce%20Health%20Cloud%20-%20UI%20view/",
+      "https://www.pass4future.com/questions/salesforce/health-cloud-accredited-professional",
+    ],
   },
   {
     id: "11",
@@ -174,6 +211,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `DataRaptors` },
     ],
     answer: [{ id: "C" }, { id: "D" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://www.pass4future.com/questions/salesforce/health-cloud-accredited-professional",
+      "https://www.coursehero.com/file/pfln6ppf/A-customer-wants-to-view-medica%C6%9Fon-data-from-Health-Cloud-leveraging-FHIR/",
+    ],
   },
   {
     id: "12",
@@ -186,6 +228,14 @@ export const hc_dumps_questions = [
       { id: "D", option: `Enhanced Timeline` },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_health_advanced_patient_card.htm&release=238&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_advanced_patient_card.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_card_overview.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_config_patient_card.htm&type=5",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-34-discussion",
+    ],
   },
   {
     id: "13",
@@ -210,6 +260,13 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_provider_search_experience_cloud.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_provider_search_guest_user_profile_access_to_objects.htm&type=5",
+      "https://www.pass4future.com/questions/salesforce/health-cloud-accredited-professional",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_provider_search_sharing_rules_guest_users.htm&type=5",
+    ],
   },
   {
     id: "14",
@@ -238,6 +295,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_list_sharing.htm&type=5",
+      "https://www.p2pexams.com/free-questions/salesforce-health-cloud-accredited-professional-sp22-dumps-by-mueller-24-05-2024-7qa-dumpssheet.pdf",
+    ],
   },
   {
     id: "15",
@@ -250,6 +312,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Contract Lifecycle Management` },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=ind.doc_gen_foundation_document_generation_overview_389381.htm&type=5",
+      "https://www.p2pexams.com/free-questions/salesforce-health-cloud-accredited-professional-sp22-dumps-by-mueller-24-05-2024-7qa-dumpssheet.pdf",
+    ],
   },
   {
     id: "16",
@@ -262,6 +329,10 @@ export const hc_dumps_questions = [
       { id: "D", option: `DataRaptors` },
     ],
     answer: [{ id: "C" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://www.p2pexams.com/free-questions/salesforce-health-cloud-accredited-professional-sp22-dumps-by-mueller-24-05-2024-7qa-dumpssheet.pdf",
+    ],
   },
   {
     id: "17",
@@ -274,7 +345,14 @@ export const hc_dumps_questions = [
       { id: "D", option: `Automated Document Checklist Item Creation` },
       { id: "E", option: `Document Rotation` },
     ],
-    answer: [{ id: "A" }, { id: "B" }, { id: "D" }],
+    // answer: [{ id: "A" }, { id: "B" }, { id: "D" }],
+    answer: [{ id: "B" }, { id: "D" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_create_document_checklist_items_automatically.htm&release=238&type=5",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_receiveddocument.htm",
+      "https://chatgpt.com",
+    ],
   },
   {
     id: "18",
@@ -299,6 +377,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.os_dataraptor_or_integration_procedure_8166.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.os_dataraptor_best_practices_47412.htm&type=5",
+      "https://www.dumpspedia.com/health-cloud-accredited-professional-salesforce-health-cloud-accredited-professional-sp23-dumps.html",
+    ],
   },
   {
     id: "19",
@@ -317,6 +401,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/industries/health/overview",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_clinical_data_model_fhir.htm&type=5",
+      "https://www.certsmarket.com/free-questions/salesforce/Health-Cloud-Accredited-Professional",
+    ],
   },
   {
     id: "20",
@@ -335,6 +425,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_timeline_salesforce_users.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_timeline_client_information.htm&type=5",
+      "https://www.certsmarket.com/free-questions/salesforce/Health-Cloud-Accredited-Professional",
+    ],
   },
   {
     id: "21",
@@ -359,6 +455,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_list_sharing.htm&type=5",
+      "https://www.coursehero.com/file/p6o0887d/39-Bloomington-Caregivers-wants-to-ensure-it-maintains-the-privacy-of-its-users/",
+    ],
   },
   {
     id: "22",
@@ -371,7 +472,13 @@ export const hc_dumps_questions = [
       { id: "D", option: `Enable contacts to relate to multiple accounts.` },
       { id: "E", option: `Log a support case to have person accounts enabled` },
     ],
-    answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
+    // answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
+    answer: [{ id: "A" }, { id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_planning.htm&type=5",
+      "file:///C:/Users/Lenovo/Downloads/Health%20Cloud%20PLC%20Workbook%20-%20Version%201.1.pdf",
+    ],
   },
   {
     id: "23",
@@ -383,7 +490,13 @@ export const hc_dumps_questions = [
       { id: "C", option: `Tasks` },
       { id: "D", option: `Objects` },
     ],
-    answer: [{ id: "A" }],
+    // answer: [{ id: "A" }],
+    answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_make_data_protection_details_available_in_records.htm&type=5",
+      "https://www.coursehero.com/file/p5fkqvtd/A-healthcare-provider-with-multiple-clinics-and-specialties-is-struggling-to/",
+    ],
   },
   {
     id: "24",
@@ -407,7 +520,12 @@ export const hc_dumps_questions = [
         option: `Create a named credential to support authenticated callouts.`,
       },
     ],
-    answer: [{ id: "B" }, { id: "D" }],
+    // answer: [{ id: "B" }, { id: "D" }],
+    answer: [{ id: "A" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://www.coursehero.com/file/p5fkqvtd/A-healthcare-provider-with-multiple-clinics-and-specialties-is-struggling-to/",
+    ],
   },
   {
     id: "25",
@@ -430,6 +548,13 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "B" }, { id: "C" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.account_person_behavior.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=000395996&type=1",
+      "https://help.salesforce.com/s/articleView?id=sf.lsc_admin_enable_person_account.htm&type=5",
+      "https://www.certshero.com/salesforce/health-cloud-accredited-professional/practice-test",
+    ],
   },
   {
     id: "26",
@@ -442,6 +567,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Program Eligibility OmniScript` },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_programs_configure_enrollment_flow.htm&type=5",
+      "https://www.certshero.com/salesforce/health-cloud-accredited-professional/practice-test",
+    ],
   },
   {
     id: "27",
@@ -454,6 +584,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Leverage Person Account` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_records.htm&type=5",
+      "https://www.premiumdumps.com/salesforce/salesforce-health-cloud-accredited-professional-dumps",
+    ],
   },
   {
     id: "28",
@@ -467,6 +602,13 @@ export const hc_dumps_questions = [
       { id: "E", option: `Experience Cloud for Hearth Cloud` },
     ],
     answer: [{ id: "A" }, { id: "C" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.set_up_intelligent_appointment_management.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_provider_search.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_appointment_management_self_service.htm&type=5",
+      "https://www.coursehero.com/file/p5fkqvtd/A-healthcare-provider-with-multiple-clinics-and-specialties-is-struggling-to/",
+    ],
   },
   {
     id: "29",
@@ -490,7 +632,12 @@ export const hc_dumps_questions = [
         option: `Use the Salesforce Security Health Check to identify vulnerabilities, implement custom profiles and permission sets to control data access, and configure Data Loss Prevention policies to prevent data leakage.`,
       },
     ],
-    answer: [{ id: "C" }],
+    answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_salesforce_shield.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.data_classification_intro.htm&type=5",
+    ],
   },
   {
     id: "30",
@@ -502,7 +649,14 @@ export const hc_dumps_questions = [
       { id: "C", option: `Verification Search Feature` },
       { id: "D", option: `Identity Verification Parameter Item` },
     ],
-    answer: [{ id: "D" }],
+    // answer: [{ id: "D" }],
+    answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.components_of_identity_verification.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=ind.comms_identity_verification_objects_and_fields_in_communications_cloud_b2c_agent_console.htm&type=5",
+      "https://www.coursehero.com/file/p34mnp96/A-pharmaceutical-company-is-looking-to-support-patients-throughout-their/",
+    ],
   },
   {
     id: "31",
@@ -514,7 +668,14 @@ export const hc_dumps_questions = [
       { id: "C", option: `Healthcare Practitioner Facility` },
       { id: "D", option: `Patient Provider Relationship` },
     ],
-    answer: [{ id: "D" }],
+    // answer: [{ id: "D" }],
+    answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-data-models/take-a-look-at-the-household-data-model",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_data_model_hh.htm&type=5",
+      "https://www.coursehero.com/file/p34mnp96/A-pharmaceutical-company-is-looking-to-support-patients-throughout-their/",
+    ],
   },
   {
     id: "32",
@@ -527,6 +688,13 @@ export const hc_dumps_questions = [
       { id: "D", option: `Utilization Management` },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.landing_provider_network_mgmt.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_provider_network_relationship_management.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_provider_network_management.htm&type=5",
+      "https://www.coursehero.com/file/p34mnp96/A-pharmaceutical-company-is-looking-to-support-patients-throughout-their/",
+    ],
   },
   {
     id: "33",
@@ -538,7 +706,13 @@ export const hc_dumps_questions = [
       { id: "C", option: `Plan Benefit and Plan Benefit Item` },
       { id: "D", option: `Care Preauth and Care Preauth Item` },
     ],
-    answer: [{ id: "B" }],
+    // answer: [{ id: "B" }],
+    answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_membership_data_model.htm",
+      "https://www.coursehero.com/file/p34mnp96/A-pharmaceutical-company-is-looking-to-support-patients-throughout-their/",
+    ],
   },
   {
     id: "34",
@@ -551,6 +725,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Utilization Management` },
     ],
     answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.landing_social_determinants.htm&type=5",
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-data-models/discover-the-social-determinants-of-health-data-model",
+      "https://www.coursehero.com/file/p34mnp96/A-pharmaceutical-company-is-looking-to-support-patients-throughout-their/",
+    ],
   },
   {
     id: "35",
@@ -579,6 +759,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://www.coursehero.com/file/p3pgu768/Identify-key-stakeholders-and-how-they-measure-success-6-What-are-three/",
+      "https://www.p2pexams.com/free-questions/salesforce-health-cloud-accredited-professional-dumps-by-reyes-09-08-2024-9qa-certscare.pdf",
+    ],
   },
   {
     id: "36",
@@ -591,6 +776,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Sales Agreements` },
     ],
     answer: [{ id: "C" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.aaf_admin_parent_concept.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.retail_concept_admin_sasettings_sa.htm&type=5",
+      "https://www.coursehero.com/file/p2g4c1uk/A-MedTech-company-needs-to-manage-its-run-rate-business-to-ensure-contract/",
+    ],
   },
   {
     id: "37",
@@ -606,6 +797,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Health Cloud Member Referral Management Reports` },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud.meta/health_cloud/admin_install_package.htm",
+      "https://www.coursehero.com/file/pobu378/A-payer-needs-to-implement-a-program-to-address-the-rising-healthcare-expenses/",
+    ],
   },
   {
     id: "38",
@@ -617,7 +813,14 @@ export const hc_dumps_questions = [
       { id: "C", option: `Salesforce Scheduler` },
       { id: "D", option: `Advanced Therapy Management` },
     ],
-    answer: [{ id: "A" }],
+    // answer: [{ id: "A" }],
+    answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://trailhead.salesforce.com/content/learn/modules/advanced-therapy-management-in-health-cloud/explore-multi-step-scheduling",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_advanced_therapy_management_learn_about_multi_step_scheduling.htm&type=5",
+      "https://www.coursehero.com/file/p1ovm6qo/A-pharma-customer-requires-a-scheduling-tool-to-book-infusions-with-mul%C6%9Fple/",
+    ],
   },
   {
     id: "39",
@@ -642,7 +845,13 @@ export const hc_dumps_questions = [
         option: `Identify key stakeholders and how they measure success`,
       },
     ],
-    answer: [{ id: "A" }, { id: "C" }, { id: "E" }],
+    // answer: [{ id: "A" }, { id: "C" }, { id: "E" }],
+    answer: [{ id: "A" }, { id: "D" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://www.coursehero.com/file/235743909/SET2-markedpdf/",
+      "https://chatgpt.com/",
+    ],
   },
   {
     id: "40",
@@ -655,6 +864,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Patient Card` },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_actionable_relationship_center.htm&type=5",
+      "https://www.coursehero.com/file/235743909/SET2-markedpdf/",
+    ],
   },
   {
     id: "41",
@@ -667,6 +881,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Intelligent Sales` },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_advanced_therapy_management_overview.htm&type=5",
+      "https://trailhead.salesforce.com/content/learn/modules/advanced-therapy-management-in-health-cloud/get-to-know-advanced-therapy-management",
+      "https://www.coursehero.com/file/235743909/SET2-markedpdf/",
+    ],
   },
   {
     id: "42",
@@ -687,7 +907,15 @@ export const hc_dumps_questions = [
       { id: "D", option: `Action Launcher` },
       { id: "E", option: `Timeline` },
     ],
-    answer: [{ id: "C" }, { id: "D" }, { id: "E" }],
+    // answer: [{ id: "C" }, { id: "D" }, { id: "E" }],
+    answer: [{ id: "A" }, { id: "C" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_contact_center_profile_card_and_member_plan_flexcards.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.record_alerts.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_component_timeline.htm&type=5",
+      "https://www.coursehero.com/file/235743909/SET2-markedpdf/",
+    ],
   },
   {
     id: "43",
@@ -699,7 +927,14 @@ export const hc_dumps_questions = [
       { id: "C", option: `Healthcare Visit Manager` },
       { id: "D", option: `Execute Health Scheduling` },
     ],
-    answer: [{ id: "C" }],
+    // answer: [{ id: "C" }],
+    answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_home_health_schedule_visits.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_home_health_data_model_and_permissions.htm&type=5",
+      "https://www.coursehero.com/file/p20ah4tv/A-developer-needs-to-modify-the-out-of-the-box-Advanced-Pa%C6%9Fent-Card-to-display/",
+    ],
   },
   {
     id: "44",
@@ -732,6 +967,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://www.p2pexams.com/free-questions/ebraindumps-salesforce-health-cloud-accredited-professional-sp22-exam-dumps-by-powell-12-12-2023-9qa.pdf",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-27-discussion",
+    ],
   },
   {
     id: "45",
@@ -756,6 +996,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_remote_monitoring_setup.htm&type=5",
+      "https://www.coursehero.com/file/p3uv0v2q/Bloomington-Caregivers-want-to-offer-its-pa%C6%9Fents-remote-monitoring-to-bring/",
+    ],
   },
   {
     id: "46",
@@ -768,6 +1013,10 @@ export const hc_dumps_questions = [
       { id: "D", option: `Health Cloud Foundation permission set` },
     ],
     answer: [{ id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.perm_set_health_cloud_provider_network_management.htm&type=5",
+    ],
   },
   {
     id: "47",
@@ -780,6 +1029,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Scheduler for Industries` },
     ],
     answer: [{ id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.set_up_intelligent_appointment_management.htm&type=5",
+      "https://www.p2pexams.com/free-questions/ebraindumps-salesforce-health-cloud-accredited-professional-sp22-exam-dumps-by-powell-12-12-2023-9qa.pdf",
+    ],
   },
   {
     id: "48",
@@ -792,6 +1046,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Use Data Loader.` },
     ],
     answer: [{ id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_create_provider_search_data.htm&type=5",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_provider_data_model_overview.htm",
+      "https://www.p2pexams.com/free-questions/ebraindumps-salesforce-health-cloud-accredited-professional-sp22-exam-dumps-by-powell-12-12-2023-9qa.pdf",
+    ],
   },
   {
     id: "49",
@@ -804,7 +1064,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Update sharing settings in Setup.` },
       { id: "E", option: `Enable users to view and complete Assessments.` },
     ],
-    answer: [{ id: "A" }, { id: "B" }, { id: "E" }],
+    // answer: [{ id: "A" }, { id: "B" }, { id: "E" }],
+    answer: [{ id: "A" }, { id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_integrated_care_management_set_up_discovery_framework.htm&type=5",
+    ],
   },
   {
     id: "50",
@@ -829,6 +1094,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_care_team_roles.htm&type=5",
+      "https://www.p2pexams.com/free-questions/ebraindumps-salesforce-health-cloud-accredited-professional-sp22-exam-dumps-by-powell-12-12-2023-9qa.pdf",
+    ],
   },
   {
     id: "51",
@@ -841,6 +1111,15 @@ export const hc_dumps_questions = [
       { id: "D", option: `Salesforce Shield` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.security_pe_enable_files_attachments.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.security_pe_concepts.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.security_pe_masking.htm&type=5",
+      "https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/security_pe_vs_classic_encryption.htm",
+      "https://help.salesforce.com/s/articleView?id=sf.data_mask_overview.htm&type=5",
+      "https://www.p2pexams.com/free-questions/ebraindumps-salesforce-health-cloud-accredited-professional-sp22-exam-dumps-by-powell-12-12-2023-9qa.pdf",
+    ],
   },
   {
     id: "52",
@@ -865,6 +1144,10 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.os_dataraptors.htm&type=5",
+    ],
   },
   {
     id: "53",
@@ -885,7 +1168,12 @@ export const hc_dumps_questions = [
       },
       { id: "D", option: `Customize the Service Request object.` },
     ],
-    answer: [{ id: "B" }, { id: "D" }],
+    answer: [{ id: "C" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_um_data_model.htm&type=5",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/map_fhir_ServiceRequest.htm",
+    ],
   },
   {
     id: "54",
@@ -907,6 +1195,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Create a criteria-based Account sharing rule.` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_list_sharing.htm&type=5",
+      "https://www.coursehero.com/file/p3uv0v2q/Bloomington-Caregivers-want-to-offer-its-pa%C6%9Fents-remote-monitoring-to-bring/",
+    ],
   },
   {
     id: "55",
@@ -919,6 +1212,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Optimize appointment chain with Einstein.` },
     ],
     answer: [{ id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_advanced_therapy_management_overview.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.advanced_therapy_management_summary.htm&type=5",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-30-discussion",
+    ],
   },
   {
     id: "56",
@@ -931,6 +1230,13 @@ export const hc_dumps_questions = [
       { id: "D", option: `Reporting unmanaged package` },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_health_analytics_care_managers.htm&release=244&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.analytics_health_dashboards_care_performance.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.analytics_health_overview.htm&type=5",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-31-discussion",
+    ],
   },
   {
     id: "57",
@@ -943,7 +1249,15 @@ export const hc_dumps_questions = [
       { id: "D", option: `Document Generation` },
       { id: "E", option: `Integration Procedures` },
     ],
-    answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
+    answer: [{ id: "B" }, { id: "C" }, { id: "E" }],
+    // answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=ind.v_contracts_t_document_generation_overview_379872.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=ind.doc_gen_foundation_document_generation_overview_389381.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=ind.v_contracts_t_using_the_generic_document_generation_omniscript_386991.htm&type=5",
+      "https://chatgpt.com/",
+    ],
   },
   {
     id: "58",
@@ -956,6 +1270,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Customer Community Plus for Health Cloud` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_communities_license_access.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.experience_cloud_for_health_cloud_faq.htm&type=5",
+    ],
   },
   {
     id: "59",
@@ -972,6 +1291,12 @@ export const hc_dumps_questions = [
       { id: "E", option: `Change the child card state to show active.` },
     ],
     answer: [{ id: "A" }, { id: "D" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://www.coursehero.com/file/p20ah4tv/A-developer-needs-to-modify-the-out-of-the-box-Advanced-Pa%C6%9Fent-Card-to-display/",
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_health_advanced_patient_card.htm&release=238&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_advanced_patient_card.htm&type=5",
+    ],
   },
   {
     id: "60",
@@ -984,7 +1309,16 @@ export const hc_dumps_questions = [
       { id: "D", option: `Adding a QR Code` },
       { id: "E", option: `SMS Assessment Completion` },
     ],
-    answer: [{ id: "A" }, { id: "B" }, { id: "C" }],
+    answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
+    // answer: [{ id: "A" }, { id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_assessments_prefill.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.capture_respondents_signature_on_the_form.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.use_qr_codes_on_assessment_forms.htm&type=5",
+      "https://www.pass4success.com/salesforce/health-cloud-accredited-professional/dumps",
+      "https://www.p2pexams.com/free-questions/salesforce-health-cloud-accredited-professional-sp22-braindumpscollection-actual-questions-by-walker-18-01-2024-7qa.pdf",
+    ],
   },
   {
     id: "61",
@@ -997,6 +1331,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `OmniScript` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_health_create_care_plans_from_care_gaps.htm&release=246&type=5",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-29-discussion",
+    ],
   },
   {
     id: "62",
@@ -1009,6 +1348,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Update the Test Condition.` },
     ],
     answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.os_create_a_conditional_block_example_with_if_elseif_else_logic_48581.htm&type=5",
+      "https://www.passeidireto.com/arquivo/130125510/salesforce-health-cloud-accredited-professional-dumps",
+    ],
   },
   {
     id: "63",
@@ -1033,6 +1377,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/map_fhir_considerations.htm",
+      "https://www.passreview.com/articles/feb-2024-health-cloud-accredited-professional-exam-dumps-pass-with-updated-2024-salesforce-health-cloud-accredited-professional-q65-q80/#",
+    ],
   },
   {
     id: "64",
@@ -1048,7 +1397,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Assign Health Cloud Video Calls permission set.` },
       { id: "E", option: `Install the Virtual Care unmanaged package.` },
     ],
-    answer: [{ id: "B" }, { id: "D" }, { id: "E" }],
+    answer: [{ id: "A" }, { id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_health_virtual_care_enable.htm&release=240&type=5",
+      "https://www.coursehero.com/file/p4o22co7b/An-agent-at-a-MedTech-company-requires-a-Ul-component-that-displays-customer/",
+    ],
   },
   {
     id: "65",
@@ -1061,6 +1415,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Apex HTTP Callout` },
     ],
     answer: [{ id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.platform_events.meta/platform_events/platform_events_intro.htm",
+      "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_callouts_http.htm",
+    ],
   },
   {
     id: "66",
@@ -1084,7 +1443,13 @@ export const hc_dumps_questions = [
         option: `Review and modify the Crisis Center Intake flow in Flow Builder to meet requirements.`,
       },
     ],
-    answer: [{ id: "B" }, { id: "D" }],
+    answer: [{ id: "A" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_crisis_center_overview.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_crisis_center_assign_permission_sets_and_permission_set_licenses.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_crisis_center_enable_crisis_center_app.htm&type=5",
+    ],
   },
   {
     id: "67",
@@ -1097,6 +1462,14 @@ export const hc_dumps_questions = [
       { id: "D", option: `Industry Template Library` },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_set_up_action_plan_templates.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_integrated_care_management_pgi_library.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_integrated_care_management_create_action_plan_template.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_integrated_care_management_add_interventions.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_integrated_care_management_create_action_plan_template_assignments.htm&type=5",
+    ],
   },
   {
     id: "68",
@@ -1121,6 +1494,10 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://examsboost.actualpdf.com/articles/salesforce-health-cloud-accredited-professional-exam-dumps-2023-practice-valid-exam-dumps-question-q90-q107/#",
+    ],
   },
   {
     id: "69",
@@ -1137,6 +1514,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "C" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/impl_person_accounts.pdf",
+      "https://help.salesforce.com/s/articleView?id=sf.account_person_enable.htm&type=5",
+    ],
   },
   {
     id: "70",
@@ -1149,6 +1531,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `FHIRR4` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hl7.htm",
+      "https://examsboost.actualpdf.com/articles/salesforce-health-cloud-accredited-professional-exam-dumps-2023-practice-valid-exam-dumps-question-q90-q107/#",
+    ],
   },
   {
     id: "71",
@@ -1161,6 +1548,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Virtual Care` },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_medication_management.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.medication_management.htm&type=5",
+    ],
   },
   {
     id: "72",
@@ -1173,6 +1565,10 @@ export const hc_dumps_questions = [
       { id: "D", option: `Integrated Care Management` },
     ],
     answer: [{ id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://www.coursehero.com/file/p4fgf41o/58-A-call-center-agent-at-Bloomington-Caregivers-wants-the-ability-to-look-up/",
+    ],
   },
   {
     id: "73",
@@ -1205,6 +1601,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://www.passeidireto.com/arquivo/130125510/salesforce-health-cloud-accredited-professional-dumps",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_contact_center_in_health_cloud.htm&type=5",
+    ],
   },
   {
     id: "74",
@@ -1216,7 +1617,12 @@ export const hc_dumps_questions = [
       { id: "C", option: `Telehealth` },
       { id: "D", option: `Virtual Care` },
     ],
-    answer: [{ id: "C" }],
+    answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_virtual_care.htm&type=5",
+      "https://www.coursehero.com/file/235743909/SET2-markedpdf/",
+    ],
   },
   {
     id: "75",
@@ -1229,6 +1635,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `User authentication and access control` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_forcecom_external_data.htm&release=228&type=5",
+      "https://www.actual4test.com/discussions/Salesforce/exam-health-cloud-accredited-professional-topic-1-question-18-discussion-p1051743.html",
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_forcecom_external_data.htm&release=228&type=5",
+    ],
   },
   {
     id: "76",
@@ -1240,7 +1652,12 @@ export const hc_dumps_questions = [
       { id: "C", option: `Interoperability API` },
       { id: "D", option: `Clinical Summary Healthcare API` },
     ],
-    answer: [{ id: "C" }],
+    answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/industries/health/references/clinical_summary?meta=Summary",
+      "https://help.salesforce.com/s/articleView?id=release-notes.health_cloud_fhir_apis.htm&release=240&type=5",
+    ],
   },
   {
     id: "77",
@@ -1269,6 +1686,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_salesforce_shield.htm&type=5",
+      "https://cloudely.com/salesforce-health-cloud-explained/",
+    ],
   },
   {
     id: "78",
@@ -1281,6 +1703,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Medication Request` },
     ],
     answer: [{ id: "A" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_medication_management_config.htm&type=5",
+      "https://examtorrent.testkingpdf.com/articles/jan-2024-updated-and-accurate-health-cloud-accredited-professional-questions-answers-for-passing-the-exam-quickly-q109-q133/#",
+    ],
   },
   {
     id: "79",
@@ -1313,6 +1740,13 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_doc_automation.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.set_up_intelligent_appointment_management.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.intelligent_document_reader.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_benefit_verification.htm&type=5",
+    ],
   },
   {
     id: "80",
@@ -1324,7 +1758,12 @@ export const hc_dumps_questions = [
       { id: "C", option: `Healthcare Provider` },
       { id: "D", option: `Healthcare Practitioner` },
     ],
-    answer: [{ id: "B" }, { id: "D" }],
+    answer: [{ id: "A" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_records.htm&type=5",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_healthcareprovider.htm",
+    ],
   },
   {
     id: "81",
@@ -1337,6 +1776,10 @@ export const hc_dumps_questions = [
       { id: "D", option: `Data Processing Engine` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_provider_search_setup.htm&type=5",
+    ],
   },
   {
     id: "82",
@@ -1350,6 +1793,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `Referral Request` },
     ],
     answer: [{ id: "B" }, { id: "C" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_care_services_review_intro.htm",
+      "https://www.pass4test.com/Health-Cloud-Accredited-Professional-exam-questions.html",
+    ],
   },
   {
     id: "83",
@@ -1362,6 +1810,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Identity Verification Flow Templates` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.fsc_identity_verification.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_provided_flows.htm&type=5",
+    ],
   },
   {
     id: "84",
@@ -1374,6 +1827,10 @@ export const hc_dumps_questions = [
       { id: "D", option: `Clinical data model` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_clinical_data_model.htm",
+    ],
   },
   {
     id: "85",
@@ -1386,8 +1843,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Provider Engagement` },
     ],
     answer: [{ id: "A" }],
+    conform: true,
     reference: [
       `https://help.salesforce.com/s/articleView?id=sf.IS_intelligent_sales.htm&type=5`,
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_intelligent_sales_data_model.htm",
+      "https://www.coursehero.com/file/pfln6ppf/A-customer-wants-to-view-medica%C6%9Fon-data-from-Health-Cloud-leveraging-FHIR/",
     ],
   },
   {
@@ -1411,6 +1871,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "B" }, { id: "C" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_utlization_management_reports.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sfdo.CM_Reports_Dashboards.htm&type=5",
+      "https://www.dumpspedia.com/health-cloud-accredited-professional-salesforce-health-cloud-accredited-professional-sp23-dumps.html",
+    ],
   },
   {
     id: "87",
@@ -1424,6 +1890,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `Out-of-the-box Process libraries` },
     ],
     answer: [{ id: "B" }, { id: "C" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-utilization-management/explore-utilization-management-for-payers",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_utilization_management_prior_auth_processsetup.htm&type=5",
+    ],
   },
   {
     id: "88",
@@ -1455,6 +1926,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_purchaserplan_bv.htm",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_planbenefit.htm",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_memberplan.htm",
+    ],
   },
   {
     id: "89",
@@ -1467,6 +1944,10 @@ export const hc_dumps_questions = [
       { id: "D", option: `Expression Set Templates` },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.bre_expression_set_templates.htm&type=5",
+    ],
   },
   {
     id: "90",
@@ -1479,6 +1960,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Integrated Care Management` },
     ],
     answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-utilization-management/learn-about-utilization-management",
+      "https://www.coursehero.com/file/pobu378/A-payer-needs-to-implement-a-program-to-address-the-rising-healthcare-expenses/",
+    ],
   },
   {
     id: "91",
@@ -1490,7 +1976,12 @@ export const hc_dumps_questions = [
       { id: "C", option: `Discovery Framework` },
       { id: "D", option: `Salesforce Surveys` },
     ],
-    answer: [{ id: "D" }],
+    answer: [{ id: "A" }],
+    // answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.concept_salesforce_surveys.htm&type=5",
+    ],
   },
   {
     id: "92",
@@ -1503,6 +1994,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `HCProvider360 FlexCard` },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_provider_cards.htm&type=5",
+      "https://www.coursehero.com/file/pfln6ppf/A-customer-wants-to-view-medica%C6%9Fon-data-from-Health-Cloud-leveraging-FHIR/",
+    ],
   },
   {
     id: "93",
@@ -1514,7 +2010,13 @@ export const hc_dumps_questions = [
       { id: "C", option: `Care Programs` },
       { id: "D", option: `Salesforce Surveys` },
     ],
-    answer: [{ id: "A" }, { id: "D" }],
+    answer: [{ id: "A" }, { id: "B" }],
+    // answer: [{ id: "A" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_integrated_care_management.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.fsc_discovery_framework_overview.htm&type=5",
+    ],
   },
   {
     id: "94",
@@ -1526,7 +2028,12 @@ export const hc_dumps_questions = [
       { id: "C", option: `Benefits Coverage` },
       { id: "D", option: `Coverage Confirmation` },
     ],
-    answer: [{ id: "C" }],
+    answer: [{ id: "A" }],
+    // answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_benefit_verification.htm&type=5",
+    ],
   },
   {
     id: "95",
@@ -1550,7 +2057,13 @@ export const hc_dumps_questions = [
         option: `Create an Apex class and leverage Intelligent Appointment Management.`,
       },
     ],
-    answer: [{ id: "C" }],
+    // answer: [{ id: "C" }],
+    answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.set_up_intelligent_appointment_management.htm&type=5",
+      "https://chatgpt.com/",
+    ],
   },
   {
     id: "96",
@@ -1563,6 +2076,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Map objects and fields to the target objects.` },
     ],
     answer: [{ id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=release-notes.health_cloud_fhir_apis.htm&release=240&type=5",
+      "https://developer.salesforce.com/docs/atlas.en-us.240.0.health_cloud_object_reference.meta/health_cloud_object_reference/ehr_cdm.htm",
+      "https://www.pass4test.com/Health-Cloud-Accredited-Professional-exam-questions.html",
+    ],
   },
   {
     id: "97",
@@ -1577,7 +2096,12 @@ export const hc_dumps_questions = [
       { id: "C", option: `Create a new Timeline View Configuration record.` },
       { id: "D", option: `Create a new Timeline record within Setup.` },
     ],
-    answer: [{ id: "C" }],
+    answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_timeline_client_information.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_config_timeline.htm&type=5",
+    ],
   },
   {
     id: "98",
@@ -1590,6 +2114,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Account Contact Relationship` },
     ],
     answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_healthcarepractitionerfacility.htm",
+      "https://help.salesforce.com/s/articleView?id=sf.create_healthcare_practitioner_facility_records.htm&type=5",
+    ],
   },
   {
     id: "99",
@@ -1614,6 +2143,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_integrated_care_management_pgi_library.htm&type=5",
+      "https://www.dumpspedia.com/health-cloud-accredited-professional-salesforce-health-cloud-accredited-professional-sp23-dumps.html",
+    ],
   },
   {
     id: "100",
@@ -1626,6 +2160,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Health Cloud Platform permission set license` },
     ],
     answer: [{ id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_permissionset_licenses_assign.htm&type=5",
+      "file:///C:/Users/Lenovo/Downloads/Health%20Cloud%20PLC%20Workbook%20-%20Version%201.1.pdf",
+    ],
   },
   {
     id: "101",
@@ -1650,6 +2189,13 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://www.youtube.com/watch?v=jzePq0jQBTY&t=190s",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_timeline_client_information.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_timeline_background.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=33",
+    ],
   },
   {
     id: "102",
@@ -1671,6 +2217,15 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud.meta/health_cloud/admin_install_package.htm",
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_health_utilimgmt_prior_authorization.htm&release=240&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_utilization_management_prior_auth_processsetup.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.utilization_management_prior_auth_link_request.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.care_request_submit.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=33",
+    ],
   },
   {
     id: "103",
@@ -1684,6 +2239,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `Assets` },
     ],
     answer: [{ id: "A" }, { id: "C" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_intelligent_sales_data_model.htm&type=5",
+      "https://certsprovider.com/exam/health-cloud-accredited-professional",
+    ],
   },
   {
     id: "104",
@@ -1699,7 +2259,16 @@ export const hc_dumps_questions = [
       { id: "D", option: `Health Cloud is HITRUST certified` },
       { id: "E", option: `Health Cloud is GDPR certified` },
     ],
-    answer: [{ id: "A" }, { id: "B" }, { id: "C" }],
+    // answer: [{ id: "A" }, { id: "B" }, { id: "C" }],
+    answer: [{ id: "A" }, { id: "C" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://compliance.salesforce.com/en/hitrust",
+      "https://compliance.salesforce.com/en/hipaa",
+      "https://compliance.salesforce.com/en/gdpr",
+      "https://trailhead.salesforce.com/content/learn/modules/interoperability-and-the-clinical-data-model/review-the-data-exchange-standards",
+      "https://www.actual4test.com/discussions/Salesforce/exam-health-cloud-accredited-professional-topic-1-question-214-discussion-p1016528.html",
+    ],
   },
   {
     id: "105",
@@ -1716,6 +2285,13 @@ export const hc_dumps_questions = [
       { id: "E", option: `Install Health Cloud Unmanaged Packages.` },
     ],
     answer: [{ id: "A" }, { id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_planning.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_person_account_overview.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_health_could_managed_package.htm&type=5",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-26-discussion",
+    ],
   },
   {
     id: "106",
@@ -1740,10 +2316,16 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_apex_risk_scoring.htm&type=5",
+      "https://www.coursehero.com/file/p69f8j0m/The-Salesforce-administrator-for-ABC-Policies-Inc-a-Health-Care-Payer/",
+    ],
   },
   {
     id: "107",
-    question: `Which three statements about the patient timeline view are false? (Choose three.)`,
+    // question: `Which three statements about the patient timeline view are false? (Choose three.)`,
+    question: `Which three statements about the patient timeline view are true? (Choose three.)`,
     questionType: "Multiple Choice",
     options: [
       {
@@ -1767,7 +2349,14 @@ export const hc_dumps_questions = [
         option: `Filters can be used to limit the number of records shown in the patient timeline.`,
       },
     ],
-    answer: [{ id: "B" }, { id: "D" }, { id: "E" }],
+    // answer: [{ id: "B" }, { id: "D" }, { id: "E" }],
+    answer: [{ id: "C" }, { id: "D" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_config_timeline.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_component_timeline.htm&type=5",
+      "https://certsprovider.com/exam/health-cloud-accredited-professional",
+    ],
   },
   {
     id: "108",
@@ -1790,6 +2379,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `It only aligns with FHIR 0STU2 specs.` },
     ],
     answer: [{ id: "A" }, { id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_clinical_data_model_fhir.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=32",
+    ],
   },
   {
     id: "109",
@@ -1802,6 +2396,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Health Cloud` },
     ],
     answer: [{ id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_salesforce_shield.htm&type=5",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-14-discussion",
+    ],
   },
   {
     id: "110",
@@ -1815,6 +2414,12 @@ export const hc_dumps_questions = [
       { id: "E", option: `Life Events` },
     ],
     answer: [{ id: "C" }, { id: "D" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_manage_life_event_types.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_events_and_milestones.htm&type=5",
+      "https://chatgpt.com/",
+    ],
   },
   {
     id: "111",
@@ -1843,6 +2448,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "D" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/sforce_api_objects_careregistereddevice.htm",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_remote_monitoring_data_model.htm",
+      "https://www.coursehero.com/file/p69f8j0m/The-Salesforce-administrator-for-ABC-Policies-Inc-a-Health-Care-Payer/",
+    ],
   },
   {
     id: "112",
@@ -1855,7 +2466,14 @@ export const hc_dumps_questions = [
       { id: "D", option: `Health Cloud Permission Set License` },
       { id: "E", option: `Health Cloud Foundation Permission Set` },
     ],
-    answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
+    // answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
+    answer: [{ id: "B" }, { id: "C" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud.meta/health_cloud/admin_permissionset_licenses_assign.htm",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_utilization_management_prereq.htm&type=5",
+      "https://chatgpt.com/",
+    ],
   },
   {
     id: "113",
@@ -1868,7 +2486,19 @@ export const hc_dumps_questions = [
       { id: "D", option: `Patient List` },
       { id: "E", option: `Household Tab` },
     ],
-    answer: [{ id: "A" }, { id: "D" }, { id: "E" }],
+    // answer: [{ id: "A" }, { id: "D" }, { id: "E" }],
+    // answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
+    answer: [{ id: "A" }, { id: "C" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.create_tasks.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.timeline_view_health_information_holistically_with_enhanced_timeline.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=30",
+    ],
+    // reference: [
+    //   "https://help.salesforce.com/s/articleView?id=sf.create_tasks.htm&type=5",
+    //   "https://www.coursehero.com/file/p4suj0sn/How-Should-Members-and-Patients-be-represented-during-the-Managers-as-per-the/",
+    // ],
   },
   {
     id: "114",
@@ -1884,7 +2514,13 @@ export const hc_dumps_questions = [
         option: `Customize the out of the box enrollment flow template to match requirements.`,
       },
     ],
-    answer: [{ id: "D" }, { id: "E" }],
+    // answer: [{ id: "D" }, { id: "E" }],
+    answer: [{ id: "B" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-care-programs/use-care-programs",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_programs_configure_enrollment_flow.htm&type=5",
+    ],
   },
   {
     id: "115",
@@ -1898,8 +2534,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `E-Signature` },
     ],
     answer: [{ id: "B" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.consent_management_health.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=30#:~:text=)%3A%20B%2CE-,Explanation%3A,for%20signature%20and%20e%2Dsignature.",
+    ],
   },
   {
     id: "116",
@@ -1913,13 +2552,21 @@ export const hc_dumps_questions = [
       { id: "E", option: `Care request facility` },
     ],
     answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.care_request.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_config_care_request.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.utilization_management_payer.htm&type=5",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_responses.htm",
+      "https://help.salesforce.com/s/articleView?id=sf.utilization_management_types.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=30",
+    ],
   },
   {
     id: "117",
     questionType: "Multiple Choice",
-    question: `Which two fields are required when creating a new care plan task?`,
+    // question: `Which two fields are required when creating a new care plan task?`,
+    question: `Which two fields are optional when creating a new Care plan task? (Choose Two)`,
     options: [
       { id: "A", option: `owner` },
       { id: "B", option: `problem` },
@@ -1927,9 +2574,14 @@ export const hc_dumps_questions = [
       { id: "D", option: `Goal` },
       { id: "E", option: `Due Date` },
     ],
-    answer: [{ id: "A" }, { id: "C" }],
-    conform: false,
-    reference: [],
+    // answer: [{ id: "A" }, { id: "C" }],
+    answer: [{ id: "B" }, { id: "D" }],
+    conform: true,
+    reference: [
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-care-plans/explore-care-plans-and-care-plan-templates",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_care_template_task_config.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=23",
+    ],
   },
   {
     id: "118",
@@ -1942,8 +2594,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Tableau CRM for HealthCare` },
     ],
     answer: [{ id: "A" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://www.mulesoft.com/exchange/org.mule.examples/mulesoft-accelerator-for-healthcare/",
+      "https://www.coursehero.com/file/p6h7q5ljo/CHECK-the-Modeling-VIDEO-in-PLC-course-given-for-migrating-and-verify-109Three/",
+    ],
   },
   {
     id: "119",
@@ -1962,9 +2617,15 @@ export const hc_dumps_questions = [
         option: `Create a care program health care provider with an associated care prgm provider`,
       },
     ],
-    answer: [{ id: "A" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    // answer: [{ id: "A" }, { id: "E" }],
+    answer: [{ id: "D" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_associate_hp_cp.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_associate_hp_cp.htm&type=5",
+      "https://www.coursehero.com/file/p7v59b01/Which-two-fields-are-optional-when-creatinga-new-Care-plan-task-Choose-Two-A/",
+      "https://www.certqueen.com/news_Salesforce-Health-Cloud-Accredited-Professional-Exam-Dumps_858.html",
+    ],
   },
   {
     id: "120",
@@ -1977,8 +2638,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Case,Problems,Goals,Tasks,Care Plan Templates` },
     ],
     answer: [{ id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-care-plans/explore-care-plans-and-care-plan-templates",
+      "https://help.salesforce.com/s/articleView?id=sf.care_plan_overview.htm&type=5",
+      "https://www.coursehero.com/file/p10raufd/107-Which-3-of-the-components-are-customizable-in-HC-aTimeline-b-EHR-Data-c-Life/",
+    ],
   },
   {
     id: "121",
@@ -1995,8 +2660,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "B" }, { id: "C" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_planning.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=000382690&type=1",
+      "https://www.coursehero.com/file/p10raufd/107-Which-3-of-the-components-are-customizable-in-HC-aTimeline-b-EHR-Data-c-Life/",
+    ],
   },
   {
     id: "122",
@@ -2020,9 +2689,13 @@ export const hc_dumps_questions = [
         option: `Patients should be modeled as Person Accounts. Providers and non-clinical staff should be modeled as Contacts`,
       },
     ],
-    answer: [{ id: "D" }],
-    conform: false,
-    reference: [],
+    // answer: [{ id: "D" }],
+    answer: [{ id: "B" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_records.htm&type=5",
+      "https://www.dumpsbase.com/freedumps/new-salesforce-health-cloud-accredited-professional-exam-dumps-good-online-resource.html#:~:text=A%20service%20cloud%20organization%20migrating,as%20Person%20Accounts%20post%2Dmigration%3F&text=Patients%2C%20physicians%20and%20non%2Dclinical%20staff%20should,be%20modeled%20as%20Person%20Accounts.",
+    ],
   },
   {
     id: "123",
@@ -2036,13 +2709,19 @@ export const hc_dumps_questions = [
       { id: "E", option: `Custom Label` },
     ],
     answer: [{ id: "A" }, { id: "C" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_config_timeline.htm&type=5",
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-data-displays/adapt-the-patient-card",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_manage_life_event_types.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=28",
+    ],
   },
   {
     id: "124",
     questionType: "Multiple Choice",
-    question: `A HC admin is configuring a 'Convert to Patient' process,utilizing the Lead to Individual Conversion Apex class. Which statements are false about the steps the admin can take?(choose 3)`,
+    // question: `A HC admin is configuring a 'Convert to Patient' process,utilizing the Lead to Individual Conversion Apex class. Which statements are false about the steps the admin can take?(choose 3)`,
+    question: `A HC admin is configuring a 'Convert to Patient' process,utilizing the Lead to Individual Conversion Apex class. Which statements are true about the steps the admin can take?(choose 3)`,
     options: [
       {
         id: "A",
@@ -2065,9 +2744,13 @@ export const hc_dumps_questions = [
         option: `Duplicate checks on Medical Record Number,Source System and Source System ID can be handled automatically by HC`,
       },
     ],
-    answer: [{ id: "A" }, { id: "C" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    // answer: [{ id: "A" }, { id: "C" }, { id: "E" }],
+    answer: [{ id: "B" }, { id: "C" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://www.coursehero.com/file/p10raufd/107-Which-3-of-the-components-are-customizable-in-HC-aTimeline-b-EHR-Data-c-Life/",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-4-discussion",
+    ],
   },
   {
     id: "125",
@@ -2080,8 +2763,12 @@ export const hc_dumps_questions = [
       { id: "D", option: `Care Provider Searchable field` },
     ],
     answer: [{ id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_provider_search_setup.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_provider_search.htm&type=5",
+      "https://www.coursehero.com/file/p10raufd/107-Which-3-of-the-components-are-customizable-in-HC-aTimeline-b-EHR-Data-c-Life/",
+    ],
   },
   {
     id: "126",
@@ -2094,12 +2781,15 @@ export const hc_dumps_questions = [
       { id: "D", option: `Board Certification` },
     ],
     answer: [{ id: "A" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_pnm_credentialing.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=27",
+    ],
   },
   {
     id: "127",
-    questionType: "",
+    questionType: "Multiple Choice",
     question: `In which three ways can users access Provider Management standard objects? (Choose three)`,
     options: [
       { id: "A", option: `By using Service Cloud` },
@@ -2112,11 +2802,14 @@ export const hc_dumps_questions = [
         option: `By assigning Health Cloud Foundation Permission set.`,
       },
       { id: "D", option: `By assigning the Provider Permission set.` },
-      { id: "D", option: `By using Health Cloud.` },
+      { id: "E", option: `By using Health Cloud.` },
     ],
     answer: [{ id: "B" }, { id: "C" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_provider_data_model_permissions.htm",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=27#:~:text=Users%20can%20access%20Provider%20Management,Health%20Cloud%20Foundation%20Permission%20set.",
+    ],
   },
   {
     id: "128",
@@ -2141,8 +2834,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "C" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_code_sets_data_model.htm",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=27#:~:text=How%20can%20Code%20Sets%20be,procedures%20and%20diagnostic%20code%20sets.&text=Sets%20data%20model-,Health%20Cloud%20provides%20a%20Code%20Sets%20data%20model%20that,populated%20from%20an%20external%20source.",
+    ],
   },
   {
     id: "129",
@@ -2155,8 +2851,13 @@ export const hc_dumps_questions = [
       { id: "D", option: `Codeset Bundle` },
     ],
     answer: [{ id: "B" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.code_sets_and_code_set_bundles.htm&type=5",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_r4_api_objects_CodeSet.htm",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=26",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_condition_hhc_mapping.htm&type=5",
+    ],
   },
   {
     id: "130",
@@ -2178,8 +2879,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "C" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_card_configuration.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_card_cdm_templates.htm&type=5",
+    ],
   },
   {
     id: "131",
@@ -2205,8 +2909,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "C" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_um_data_model.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.care_request_submit.htm&type=5",
+      "https://www.coursehero.com/file/p4suj0sn/How-Should-Members-and-Patients-be-represented-during-the-Managers-as-per-the/",
+    ],
   },
   {
     id: "132",
@@ -2220,8 +2928,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `Retrospective Review` },
     ],
     answer: [{ id: "B" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.utilization_management_types.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=26",
+    ],
   },
   {
     id: "133",
@@ -2234,8 +2945,14 @@ export const hc_dumps_questions = [
       { id: "D", option: `Einstein Activity Capture` },
     ],
     answer: [{ id: "B" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_unmanaged_package_wave.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.set_up_einstein_analytics_prediction.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.modify_the_appointment_management_configuration.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.update_the_records.htm&type=5",
+      "https://testinsides.dumps4pdf.com/articles/q52-q69-the-best-valid-health-cloud-accredited-professional-dumps-for-helping-passing-health-cloud-accredited-professional-exam/",
+    ],
   },
   {
     id: "134",
@@ -2260,8 +2977,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_person_account_overview.htm&type=5",
+      "https://www.marks4sure.com/health-cloud-accredited-professional-salesforce-health-cloud-accredited-professional-questions.html",
+    ],
   },
   {
     id: "135",
@@ -2287,8 +3007,13 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "D" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_enable_person_account.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_map_person_accounts.htm&type=5",
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud.meta/health_cloud/admin_person_account_overview.htm",
+      "https://testinsides.dumps4pdf.com/articles/q52-q69-the-best-valid-health-cloud-accredited-professional-dumps-for-helping-passing-health-cloud-accredited-professional-exam/#",
+    ],
   },
   {
     id: "136",
@@ -2302,8 +3027,12 @@ export const hc_dumps_questions = [
       { id: "E", option: `Benefit data model` },
     ],
     answer: [{ id: "A" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_membership_data_model.htm",
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-data-models/investigate-the-health-insurance-and-claims-data-model",
+      "https://www.marks4sure.com/health-cloud-accredited-professional-salesforce-health-cloud-accredited-professional-questions.html",
+    ],
   },
   {
     id: "137",
@@ -2317,8 +3046,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `Date of Birth and Age` },
     ],
     answer: [{ id: "C" }, { id: "D" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_patient_info_component.htm&type=5",
+      "https://www.coursehero.com/file/p2m91b40/Which-three-type-of-basic-Patient-or-Member-information-is-displayed-a-Primary/",
+    ],
   },
   {
     id: "138",
@@ -2334,9 +3066,14 @@ export const hc_dumps_questions = [
       { id: "D", option: `Health cloud is GDPR certified` },
       { id: "E", option: `Health cloud is HL-7 Compliant` },
     ],
-    answer: [{ id: "A" }, { id: "C" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    answer: [{ id: "A" }, { id: "C" }, { id: "E" }],
+    conform: true,
+    reference: [
+      "https://www.salesforce.com/healthcare-life-sciences/health-cloud/",
+      "https://compliance.salesforce.com/en/hipaa",
+      "https://compliance.salesforce.com/en/hitrust",
+      "https://compliance.salesforce.com/en/gdpr",
+    ],
   },
   {
     id: "139",
@@ -2356,8 +3093,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "D" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.fsc_admin_transform_consider.htm&type=5",
+      "https://www.coursehero.com/file/pv07dmv/Question-No-90-Which-three-are-the-main-consideration-when-transforming-the/",
+    ],
   },
   {
     id: "140",
@@ -2383,8 +3123,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "C" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.fsc_admin_person_accounts.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=000387364&type=1",
+      "https://www.coursehero.com/file/p1l8507m/Which-three-steps-should-the-Data-Architect-take-to-ensure-a-successful/",
+    ],
   },
   {
     id: "141",
@@ -2413,8 +3157,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "B" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud.meta/health_cloud/admin_config_care_request.htm",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_config_care_request.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=23",
+    ],
   },
   {
     id: "142",
@@ -2427,8 +3175,10 @@ export const hc_dumps_questions = [
       { id: "D", option: `.MP4` },
     ],
     answer: [{ id: "A" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.document_automation.htm&type=5",
+    ],
   },
   {
     id: "143",
@@ -2441,8 +3191,11 @@ export const hc_dumps_questions = [
       { id: "D", option: `Clinical Service Requests` },
     ],
     answer: [{ id: "B" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_claims_data_model.htm",
+      "https://help.salesforce.com/s/articleView?id=sf.landing_claims_management.htm&type=5",
+    ],
   },
   {
     id: "144",
@@ -2456,13 +3209,17 @@ export const hc_dumps_questions = [
       { id: "E", option: `Task Owner` },
     ],
     answer: [{ id: "C" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=23",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_care_template_task_config.htm&type=5",
+    ],
   },
   {
     id: "145",
     questionType: "Multiple Choice",
-    question: `Which three of the following statements are false about Care Plan Templates? (Choose ThreE.`,
+    question: `Which three of the following statements are true about Care Plan Templates? (Choose ThreE.`,
+    // question: `Which three of the following statements are false about Care Plan Templates? (Choose ThreE.`,
     options: [
       {
         id: "A",
@@ -2486,8 +3243,14 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "B" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-care-plans/create-and-use-care-plans",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_care_template_task_config.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.create_tasks.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_care_template_config.htm&type=5",
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-care-plans/customize-care-plans",
+    ],
   },
   {
     id: "146",
@@ -2507,8 +3270,12 @@ export const hc_dumps_questions = [
       { id: "E", option: `Customize the care coordinator flow for patient.` },
     ],
     answer: [{ id: "A" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-care-programs/use-care-programs",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_programs_configure_enrollment_flow.htm&type=5",
+      "https://www.pass4success.com/salesforce/discussions/exam-health-cloud-accredited-professional-topic-1-question-10-discussion",
+    ],
   },
   {
     id: "147",
@@ -2522,8 +3289,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `Care specialty` },
     ],
     answer: [{ id: "A" }, { id: "D" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_map_provider_search_data.htm&type=5",
+      "https://free-braindumps.com/salesforce/free-health-cloud-accredited-professional-braindumps.html?p=22",
+    ],
   },
   {
     id: "148",
@@ -2540,8 +3310,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.security_pe_concepts.htm&type=5",
+      "https://www.exam4free.com/articles/valid-health-cloud-accredited-professional-exam-dumps-ensure-you-a-high-score-2023-q96-q120/#",
+    ],
   },
   {
     id: "149",
@@ -2570,13 +3343,16 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "C" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://www.coursehero.com/file/pb2ohk6/Which-of-the-following-capabilities-of-provide-search-would-a-customer-service/",
+    ],
   },
   {
     id: "150",
     questionType: "Single Choice",
-    question: `Which statement is false about using PurchaserPlan and MemberPlan together when onboarding new insurance members?`,
+    question: `Which statement is true about using PurchaserPlan and MemberPlan together when onboarding new insurance members?`,
+    // question: `Which statement is false about using PurchaserPlan and MemberPlan together when onboarding new insurance members?`,
     options: [
       {
         id: "A",
@@ -2596,8 +3372,10 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://www.coursehero.com/file/pkpu96h/Which-underlying-object-helps-with-sales-compliance-with-sales-agreements-a/",
+    ],
   },
   {
     id: "151",
@@ -2619,9 +3397,14 @@ export const hc_dumps_questions = [
       },
       { id: "E", option: `Assign the health cloud foundation permission set` },
     ],
-    answer: [{ id: "B" }, { id: "C" }],
-    conform: false,
-    reference: [],
+    answer: [{ id: "B" }, { id: "E" }],
+    // answer: [{ id: "B" }, { id: "C" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_utilization_management_prereq.htm&type=5",
+      "https://www.coursehero.com/file/p5n9ja26/a-78-Which-two-actions-should-be-completed-by-health-cloud-admin-in-order-to/",
+      "https://help.salesforce.com/s/articleView?id=sf.care_request_submit.htm&type=5",
+    ],
   },
   {
     id: "152",
@@ -2646,8 +3429,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_business_apis.htm",
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_health_cloud_business_apis.htm&release=220&type=5",
+      "https://www.coursehero.com/file/p7dcbjn9/Explanation-Reference-and-details-below-Question-No-76-During-set-up-a/",
+    ],
   },
   {
     id: "153",
@@ -2662,9 +3449,12 @@ export const hc_dumps_questions = [
         option: `The administrator doesn't have health cloud license`,
       },
     ],
-    answer: [{ id: "A" }],
-    conform: false,
-    reference: [],
+    answer: [{ id: "B" }],
+    // answer: [{ id: "A" }],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.admin_unmanaged_package_claims.htm&type=5",
+    ],
   },
   {
     id: "154",
@@ -2677,8 +3467,13 @@ export const hc_dumps_questions = [
       { id: "D", option: `Forecasts` },
     ],
     answer: [{ id: "C" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.sa_user_parent_concept.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.auto_sales_agreements_dealers.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.retail_concept_admin_sasettings_sa.htm&type=5",
+      "https://www.coursehero.com/file/p7657clt/Which-underlying-object-helps-with-sales-compliance-with-sales-agreements-a/",
+    ],
   },
   {
     id: "155",
@@ -2707,8 +3502,12 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "D" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.health_cloud_object_reference.meta/health_cloud_object_reference/hc_care_program_data_model.htm",
+      "https://trailhead.salesforce.com/content/learn/modules/health-cloud-care-programs/get-to-know-care-programs",
+      "https://www.coursehero.com/file/pvo2hvt/What-is-the-best-practice-when-transitioning-an-org-from-Service-Cloud-to-HC-A/",
+    ],
   },
   {
     id: "156",
@@ -2721,13 +3520,16 @@ export const hc_dumps_questions = [
       { id: "D", option: `External Scheduling Systems` },
     ],
     answer: [{ id: "C" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.appointment_scheduling_system.htm&type=5",
+    ],
   },
   {
     id: "157",
     questionType: "Multiple Choice",
-    question: `Which three statement are false about a Care Program? (Choose 3)`,
+    // question: `Which three statement are false about a Care Program? (Choose 3)`,
+    question: `Which three statement are true about a Care Program? (Choose 3)`,
     options: [
       {
         id: "A",
@@ -2751,8 +3553,11 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "D" }, { id: "E" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_care_program_data_model.htm",
+      "https://help.salesforce.com/s/articleView?id=release-notes.rn_health_multiple_enrollees.htm&release=226&type=5",
+    ],
   },
   {
     id: "158",
@@ -2766,8 +3571,11 @@ export const hc_dumps_questions = [
       { id: "E", option: `Care Program Enrollee Campaign` },
     ],
     answer: [{ id: "B" }, { id: "C" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://developer.salesforce.com/docs/atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/hc_care_program_data_model.htm",
+      "https://developer.salesforce.com/docs/atlas.en-us.life_sciences_dev_guide.meta/life_sciences_dev_guide/life_sciences_sforce_api_objects.htm",
+    ],
   },
   {
     id: "159",
@@ -2796,8 +3604,13 @@ export const hc_dumps_questions = [
       },
     ],
     answer: [{ id: "A" }, { id: "C" }, { id: "D" }],
-    conform: false,
-    reference: [],
+    conform: true,
+    reference: [
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_provider_search_experience_cloud.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.hc_admin_provider_search_criteria_based.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_provider_search_custom_fields.htm&type=5",
+      "https://help.salesforce.com/s/articleView?id=sf.admin_provider_search_setup.htm&type=5",
+    ],
   },
   {
     id: "160",
@@ -4362,3 +5175,9 @@ export const hc_dumps_questions = [
     ],
   },
 ];
+/*
+conform: true,
+    reference: [
+      "",
+    ],
+*/

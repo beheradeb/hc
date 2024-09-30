@@ -1,8 +1,10 @@
 .ComponentTest {
-  /* border: 2px solid red; */
+  border: 2px solid red;
+  background-color: rgb(233, 241, 240);
   width: 100vw;
   height: 100vh;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 }

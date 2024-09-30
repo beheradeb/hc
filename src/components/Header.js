@@ -10,7 +10,8 @@ const Header = () => {
       </div>
       <div className="h-box-2">
         <h2>Salesforce Health Cloud Accredited Professional</h2>
-        <h2>Web Based Practice Exam</h2>
+        {/* <h2>Web Based Practice Exam</h2> */}
+        <h2>Questions And Verified Answers</h2>
         <h4>Salesforce Health Cloud Accredited Professional (SP22)</h4>
         <h4 style={{ color: "black" }}>Version 10.0</h4>
       </div>

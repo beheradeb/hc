@@ -5,7 +5,7 @@ import VerifyModal from "./VerifyModal";
 import CustomToastMsg from "./CustomToastMsg";
 const Body = () => {
   const [questions] = useState(hc_dumps_questions);
-  const [currentItem, setCurrentItem] = useState(150);
+  const [currentItem, setCurrentItem] = useState(100);
   // const [currentItem, setCurrentItem] = useState(0);
   const [inputValue, setInputValue] = useState("");
   const [selectedOption, setSelectedOption] = useState("");
